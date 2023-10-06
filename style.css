@@ -11,3 +11,30 @@ div {
   background-color: black;
   float: left;
 }
+div:first-child {
+  background-color: brown;
+}
+div:nth-child(4) {
+  background-color: chocolate;
+}
+div:nth-child(8) {
+  background-color: coral;
+}
+div:nth-child(12) {
+  background-color: aqua;
+}
+div:nth-child(16) {
+  background-color: blueviolet;
+}
+div:nth-child(20) {
+  background-color: darkmagenta;
+}
+div:nth-child(24) {
+  background-color: darkseagreen;
+}
+div:nth-child(28) {
+  background-color: fuchsia;
+}
+div:nth-child(32) {
+  background-color: green;
+}
